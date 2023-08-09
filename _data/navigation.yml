@@ -2,8 +2,8 @@
 main:
 - title: "Go Github" # 네비게이션 바에 표시 되는 이름
   url: "https://github.com/Lateaksoo" # 클릭시 이동할 URL
-- title: "Category"
-  url: /categories/
+- title: "Youtube"
+  url: "https://www.youtube.com/channel/UCoaeQh8Y_EqNTv4Q2FcFlBA"
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
