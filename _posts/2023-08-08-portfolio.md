@@ -3,9 +3,10 @@
 ## **대학교 프로젝트**
 
 >### **[프로젝트 1] : 엘리베이터**
+<br>
+
 [엘리베이터 Github] <br>
 [엘리베이터 동작영상]
-{: .notice--primary} 
 
 ### **개요**
 - ATMEGA 2560 과 모터 및 센서를 이용한 엘리베이터 시스템 구현
@@ -69,8 +70,10 @@
 
 
 >### **[프로젝트 2] : 경비 로봇**
+<br>
+
 [경비 로봇 Github] <br>
-[경비 로봇 동작영상]{: .notice--primary} 
+[경비 로봇 동작영상]
 
 
 ### **개요**
@@ -81,8 +84,10 @@
 - 인체 감지 센서를 이용하여 움직임 탐지
 - LCD 를 이용하여 로봇의 상태 및 표정 표시
   
-### **[프로젝트 3] : 펫 케어 로봇**
-[펫 케어 로봇 동작영상]{: .notice--primary} 
+>### **[프로젝트 3] : 펫 케어 로봇**
+<br>
+
+[펫 케어 로봇 동작영상]
 
 ### **개요**
 - 4개의 모터와 바퀴를 이용하여 이동
@@ -98,10 +103,11 @@
 
 
 ### **이수 과정명** : (산대특)_(IoT융합) IoT를 이용한 C#기반 스마트팩토리 MES 개발자양성과정_육성
-### **교육 기간** : 2022-12-30 ~ 2023-08-10{: .notice--info}
+
+### **교육 기간** : 2022-12-30 ~ 2023-08-10
 
 <br>
-
+{
 ### 1.  **C# .NET 객체지향 프로그래밍 (224 시간)**
 기본문법, 제어문, 배열, 클래스, 상속, 오버라이딩, Interface, Struct/Tuple, Collection, File, Delegate, Exception Lambda LINQ, Thread, Async, JSON/XML
 
@@ -135,8 +141,8 @@ ASP.NET Core, Entity Framework(ORM), Razor, MVC, Repository 패턴
 ### 8. **실무자 교육: ㈜ 리스너  Cleber.MES 구조 분석  (40 시간)**
     
 콘솔 기반 스마트공장 프로세스에 대한 이해. Cleber.MES 솔루션 분석 및 이해
-
-
+}
+{: .notice--info}
 
 <br>
 
@@ -145,7 +151,9 @@ ASP.NET Core, Entity Framework(ORM), Razor, MVC, Repository 패턴
 <br>
 
 >### **[팀 프로젝트 1] : 쇼핑몰 재고 관리 프로그램**
-[프로젝트 1 Github] 바로가기{: .notice--primary} 
+<br>
+
+[프로젝트 1 Github] 바로가기
 
 ### **제작 인원 및 개발 기간**
 * 김건우, 김택수
@@ -169,9 +177,9 @@ ASP.NET Core, Entity Framework(ORM), Razor, MVC, Repository 패턴
 <br>
 
 >### **[팀 프로젝트 2] : 애완동물 커뮤니티** 
+<br>
 
-
-[프로젝트 2 Github] 바로가기{: .notice--primary} 
+[프로젝트 2 Github] 바로가기
 
 ### **제작 인원 및 개발 기간**
 * 이건종, 김택수, 김혁주 , 이용학
@@ -189,10 +197,11 @@ ASP.NET Core, Entity Framework(ORM), Razor, MVC, Repository 패턴
 <br>
 
 >### **[팀 프로젝트 3] : 스마트 팩토리 MES 시스템** 
+<br>
 
-1. [프로젝트 3 MESGithub] 바로가기{: .notice--primary} 
+1. [프로젝트 3 MESGithub] 바로가기
 
-2. [프로젝트 3 WebGithub] 바로가기{: .notice--primary} 
+2. [프로젝트 3 WebGithub] 바로가기
 
 
 ### **제작 인원 및 개발 기간**
