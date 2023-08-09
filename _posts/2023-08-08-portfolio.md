@@ -5,13 +5,12 @@
 >### **[프로젝트 1] : 엘리베이터**
 [엘리베이터 Github] <br>
 [엘리베이터 동작영상]
+{: .notice--primary} 
 
 ### **개요**
 - ATMEGA 2560 과 모터 및 센서를 이용한 엘리베이터 시스템 구현
 
-**Danger Notice:**  
-Danger Notice
-{: .notice--danger}
+
 
 ### **사용된 부품**
 <table>
@@ -71,7 +70,7 @@ Danger Notice
 
 >### **[프로젝트 2] : 경비 로봇**
 [경비 로봇 Github] <br>
-[경비 로봇 동작영상]
+[경비 로봇 동작영상]{: .notice--primary} 
 
 
 ### **개요**
@@ -83,7 +82,7 @@ Danger Notice
 - LCD 를 이용하여 로봇의 상태 및 표정 표시
   
 ### **[프로젝트 3] : 펫 케어 로봇**
-[펫 케어 로봇 동작영상]
+[펫 케어 로봇 동작영상]{: .notice--primary} 
 
 ### **개요**
 - 4개의 모터와 바퀴를 이용하여 이동
@@ -99,8 +98,7 @@ Danger Notice
 
 
 ### **이수 과정명** : (산대특)_(IoT융합) IoT를 이용한 C#기반 스마트팩토리 MES 개발자양성과정_육성
-
-### **교육 기간** : 2022-12-30 ~ 2023-08-10
+### **교육 기간** : 2022-12-30 ~ 2023-08-10{: .notice--info}
 
 <br>
 
@@ -147,7 +145,7 @@ ASP.NET Core, Entity Framework(ORM), Razor, MVC, Repository 패턴
 <br>
 
 >### **[팀 프로젝트 1] : 쇼핑몰 재고 관리 프로그램**
-[프로젝트 1 Github] 바로가기
+[프로젝트 1 Github] 바로가기{: .notice--primary} 
 
 ### **제작 인원 및 개발 기간**
 * 김건우, 김택수
@@ -173,7 +171,7 @@ ASP.NET Core, Entity Framework(ORM), Razor, MVC, Repository 패턴
 >### **[팀 프로젝트 2] : 애완동물 커뮤니티** 
 
 
-[프로젝트 2 Github] 바로가기
+[프로젝트 2 Github] 바로가기{: .notice--primary} 
 
 ### **제작 인원 및 개발 기간**
 * 이건종, 김택수, 김혁주 , 이용학
@@ -192,9 +190,9 @@ ASP.NET Core, Entity Framework(ORM), Razor, MVC, Repository 패턴
 
 >### **[팀 프로젝트 3] : 스마트 팩토리 MES 시스템** 
 
-1. [프로젝트 3 MESGithub] 바로가기
+1. [프로젝트 3 MESGithub] 바로가기{: .notice--primary} 
 
-2. [프로젝트 3 WebGithub] 바로가기
+2. [프로젝트 3 WebGithub] 바로가기{: .notice--primary} 
 
 
 ### **제작 인원 및 개발 기간**
