@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/image/profile.jpg" 
   bio              : "I like coding"
   location         : "Seoul, Rep of Korea"
-  email            : "ted26@naver.com"
+  email            : # "ted26@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
