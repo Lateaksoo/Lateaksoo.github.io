@@ -2,12 +2,16 @@
 
 ## **대학교 프로젝트**
 
-### **[프로젝트 1] : 엘리베이터**
+>### **[프로젝트 1] : 엘리베이터**
 [엘리베이터 Github] <br>
 [엘리베이터 동작영상]
 
 ### **개요**
 - ATMEGA 2560 과 모터 및 센서를 이용한 엘리베이터 시스템 구현
+
+**Danger Notice:**  
+Danger Notice
+{: .notice--danger}
 
 ### **사용된 부품**
 <table>
@@ -65,7 +69,7 @@
 
 
 
-### **[프로젝트 2] : 경비 로봇**
+>### **[프로젝트 2] : 경비 로봇**
 [경비 로봇 Github] <br>
 [경비 로봇 동작영상]
 
@@ -142,7 +146,7 @@ ASP.NET Core, Entity Framework(ORM), Razor, MVC, Repository 패턴
 
 <br>
 
-### **[팀 프로젝트 1] : 쇼핑몰 재고 관리 프로그램**
+>### **[팀 프로젝트 1] : 쇼핑몰 재고 관리 프로그램**
 [프로젝트 1 Github] 바로가기
 
 ### **제작 인원 및 개발 기간**
@@ -166,7 +170,7 @@ ASP.NET Core, Entity Framework(ORM), Razor, MVC, Repository 패턴
 ---
 <br>
 
-### **[팀 프로젝트 2] : 애완동물 커뮤니티** 
+>### **[팀 프로젝트 2] : 애완동물 커뮤니티** 
 
 
 [프로젝트 2 Github] 바로가기
@@ -186,7 +190,7 @@ ASP.NET Core, Entity Framework(ORM), Razor, MVC, Repository 패턴
 ---
 <br>
 
-### **[팀 프로젝트 3] : 스마트 팩토리 MES 시스템** 
+>### **[팀 프로젝트 3] : 스마트 팩토리 MES 시스템** 
 
 1. [프로젝트 3 MESGithub] 바로가기
 
