@@ -229,7 +229,7 @@ ASP.NET Core, Entity Framework(ORM), Razor, MVC, Repository 패턴
 <br>
 
 #### **성적 우수상**
-![성적우수상](Lateaksoo.github.io/assets/Image/award.jpg)
+![성적우수상](https://Lateaksoo.github.io/assets/Image/award.jpg)
 
 <br>
 
