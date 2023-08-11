@@ -9,62 +9,10 @@
 
 ### **개요**
 - ATMEGA 2560 과 모터 및 센서를 이용한 엘리베이터 시스템 구현
-
-
-
-### **사용된 부품**
-<table>
-  <thead>
-    <tr>
-      <th>부품명</th>
-      <th>사용 개수  </th>
-      <th>사용 목적</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>ATMEGA 2560</td>
-      <td>2</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Push-Button</td>
-      <td>4</td>
-      <td>엘리베이터의 각 층 버튼 구현 및 비상 호출 버튼</td>
-    </tr>
-    <tr>
-      <td>28BYJ-48 Step Motor</td>
-      <td>1</td>
-      <td>엘리베이터의 상하 이동</td>
-    </tr>
-    <tr>
-      <td>7-Segment</td>
-      <td>3</td>
-      <td>각 층의 번호 표시</td>
-    </tr>
-    <tr>
-      <td>Piezo Buzzer</td>
-      <td>1</td>
-      <td>엘리베이터 층 도착시 알림음 재생</td>
-    </tr>
-    <tr>
-      <td>RC522 RFID</td>
-      <td>1</td>
-      <td>엘리베이터 관리자 점검 카드</td>
-    </tr>
-    <tr>
-      <td>Relay Module</td>
-      <td>1</td>
-      <td>엘리베이터 전원 차단 기능</td>
-    </tr>
-    <tr>
-      <td>LCD</td>
-      <td>1</td>
-      <td>엘리베이터 움직임 애니메이션, 층 수 표시, 점검중 표시</td>
-    </tr>
-  </tbody>
-</table>
-
+- I2C 통신을 이용하여 두 보드간 통신 
+- RFID 통신을 이용하여 관리자 카드 기능 구현
+- LCD를 이용한 실시간 화면 표시
+- Interrupt 를 이용한 버튼의 동작
 
 
 
@@ -83,7 +31,8 @@
 - 가스 센서를 이용하여 가스 농도 측정 및 알림
 - 인체 감지 센서를 이용하여 움직임 탐지
 - LCD 를 이용하여 로봇의 상태 및 표정 표시
-  
+- ICT 창의 융합 캡스톤디자인 경진대회 우수상 
+
 >### **[프로젝트 3] : 펫 케어 로봇**
 
 <br>
@@ -229,12 +178,14 @@ ASP.NET Core, Entity Framework(ORM), Razor, MVC, Repository 패턴
 <br>
 
 #### **성적 우수상**
-![성적우수상](https://Lateaksoo.github.io/assets/image/award.jpg)
+
+<img src="https://github.com/Lateaksoo/Lateaksoo.github.io/blob/master/assets/image/award.jpg?raw=true" alt="성적우수상" width="400">
 
 <br>
 
 #### **수료증**
-![수료증](https://Lateaksoo.github.io/assets/image/Certificates.jpg)
+
+<img src="https://github.com/Lateaksoo/Lateaksoo.github.io/blob/master/assets/image/Certificates.jpg?raw=true" alt="수료증" width="400">
 
 
 
