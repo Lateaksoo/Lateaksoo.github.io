@@ -14,9 +14,32 @@
 - LCD를 이용한 실시간 화면 표시
 - Interrupt 를 이용한 버튼의 동작
 
+<br>
 
+>### **[프로젝트 2] : 알람시계**
+[알람시계 Github] <br>
+[알람시계 동작영상]
 
->### **[프로젝트 2] : 경비 로봇**
+### **개요**
+- ATMEGA 2560 과 Buzzer를 이용한 알람시계
+- LCD를 통해 현재 시간을 볼 수 있고 알람시간을 설정할 수 있다.
+
+<br>
+
+>### **[프로젝트 3] : 홈 IOT 블루투스 스위치**
+[블루투스 스위치 Github] <br>
+[블루투스 스위치 동작영상]
+
+### **개요**
+- ATMEGA 2560 과 Bluetooth 모듈을 이용한 무선 스위치 제어장치
+- 스마트폰 어플리케이션과 Bluetooth를 이용하여 통신
+- 서보모터를 이용하여 스위치 제어
+
+<br>
+
+## **MicroBot 로봇 동아리 프로젝트**
+
+>### **[프로젝트 1] : 경비 로봇**
 
 <br>
 
@@ -33,7 +56,7 @@
 - LCD 를 이용하여 로봇의 상태 및 표정 표시
 - ICT 창의 융합 캡스톤디자인 경진대회 우수상 
 
->### **[프로젝트 3] : 펫 케어 로봇**
+>### **[프로젝트 2] : 펫 케어 로봇**
 
 <br>
 
@@ -68,7 +91,6 @@ DML, DDL, DCL, 단일행/그룹함수, Join, SubQuery, View, 트랜잭션 처리
 ### 3. **WinForm 애플리케이션(80 시간)**  
 
 기본컨트롤, ListControl, Timer, Dialog, Chart, DataGrid, CRUD
-
 
 ### 4. **웹표준 (88 시간)**
 
@@ -205,3 +227,10 @@ ASP.NET Core, Entity Framework(ORM), Razor, MVC, Repository 패턴
 [경비 로봇 Github]: https://github.com/Lateaksoo/Microprocesser/tree/master/microBot_GuardBot
 
 [펫 케어 로봇 동작영상]: https://www.youtube.com/watch?v=1D4gklhfchY&list=PLNyrIzGnNxFxcMQjr5qqN5z696XSvBnCz&index=4
+
+[블루투스 스위치 Github]: https://github.com/Lateaksoo/Microprocesser/tree/master/2%ED%95%99%EB%85%84/bluetoothlightout
+[블루투스 스위치 동작영상]: https://www.youtube.com/watch?v=yp7es9QME1U
+
+
+<!-- [알람시계 Github]:  -->
+[알람시계 동작영상]: https://www.youtube.com/watch?v=W6zqfcXDg6w&t=7s
