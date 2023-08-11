@@ -236,6 +236,8 @@ ASP.NET Core, Entity Framework(ORM), Razor, MVC, Repository 패턴
 #### **수료증**
 ![수료증](https://Lateaksoo.github.io/assets/image/Certificates.jpg)
 
+<img src="https://Lateaksoo.github.io/assets/image/Certificates.jpg" alt="Certificates" width="400" height="200">
+
 
 [프로젝트 1 Github]: https://github.com/Lateaksoo/Kimproject1#readme
 
