@@ -229,12 +229,12 @@ ASP.NET Core, Entity Framework(ORM), Razor, MVC, Repository 패턴
 <br>
 
 #### **성적 우수상**
-![성적우수상](./Lateaksoo.github.io/assets/Image/award.jpg)
+![성적우수상](Lateaksoo.github.io/assets/Image/award.jpg)
 
 <br>
 
 #### **수료증**
-![수료증](./Lateaksoo.github.io/assets/Image/Certificates.jpg)
+![수료증](Lateaksoo.github.io/assets/Image/Certificates.jpg)
 
 [프로젝트 1 Github]: https://github.com/Lateaksoo/Kimproject1#readme
 
