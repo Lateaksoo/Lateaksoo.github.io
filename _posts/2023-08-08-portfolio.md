@@ -234,5 +234,5 @@ ASP.NET Core, Entity Framework(ORM), Razor, MVC, Repository 패턴
 [블루투스 스위치 동작영상]: https://www.youtube.com/watch?v=yp7es9QME1U
 
 
-<!-- [알람시계 Github]:  -->
+[알람시계 Github]:  https://github.com/Lateaksoo/Microprocesser/tree/master/3%ED%95%99%EB%85%84/TeamProject#readme
 [알람시계 동작영상]: https://www.youtube.com/watch?v=W6zqfcXDg6w&t=7s
