@@ -235,4 +235,4 @@ ASP.NET Core, Entity Framework(ORM), Razor, MVC, Repository 패턴
 
 
 [알람시계 Github]:  https://github.com/Lateaksoo/Microprocesser/tree/master/3%ED%95%99%EB%85%84/TeamProject#readme
-[알람시계 동작영상]: https://www.youtube.com/watch?v=W6zqfcXDg6w&t=7s
+[알람시계 동작영상]: https://www.youtube.com/watch?v=W6zqfcXDg6w
